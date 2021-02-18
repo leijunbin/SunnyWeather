@@ -3,7 +3,7 @@ package com.sunnyweather.android.logic.dao
 import android.content.Context
 import androidx.core.content.edit
 import com.google.gson.Gson
-import com.sunnyweather.android.SunnyWeatherApplication
+import com.sunnyweather.android.ui.weather.SunnyWeatherApplication
 import com.sunnyweather.android.logic.model.Place
 
 object PlaceDao{

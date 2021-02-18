@@ -1,4 +1,4 @@
-package com.sunnyweather.android
+package com.sunnyweather.android.ui.weather
 
 import android.app.Application
 import android.content.Context
